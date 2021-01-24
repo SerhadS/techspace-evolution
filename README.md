@@ -1,2 +1,2 @@
-# techspace-evolution
-Analysis of expansion of semantic technology concept space over time
+# Code to reproduce the findings in the paper:
+S.Sarica & J.Luo. Knowledge Burden and the Future of Innovation with Artificial Intelligence
